@@ -2,9 +2,9 @@
 
 Hello, I'm Sajid! 👋
 
-🔭 I'm currently working on an open-source project called CodeCraft.
-🌱 I'm passionate about learning advanced concepts in Python, C# Dotnet, and AI.
-⚡ Fun fact: By day, I'm a SysAdmin, navigating the world of systems, but my heart belongs to programming.
+🔭 I'm currently working on an open-source project called CodeCraft. <br>
+🌱 I'm passionate about learning advanced concepts in Python, C# Dotnet, and AI. <br>
+⚡ Fun fact: By day, I'm a SysAdmin, navigating the world of systems, but my heart belongs to programming. <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saajixd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SajidSabreen) 
