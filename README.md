@@ -1,6 +1,4 @@
-# 💫 About Me
-
-Hello, I'm Sajid! 👋
+# Hello, I'm Sajid! 👋
 
 🔭 I'm currently working on an open-source project called CodeCraft. <br>
 🌱 I'm passionate about learning advanced concepts in Python, C# Dotnet, and AI. <br>
