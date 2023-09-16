@@ -1,8 +1,10 @@
-# Hello, I'm Sajid! 👋
+### Hey there, I'm Sajid, the mastermind behind CodeCraft! 👨‍💻
 
-🔭 I'm currently working on an open-source project called CodeCraft. <br>
-🌱 I'm passionate about learning advanced concepts in Python, C# Dotnet, and AI. <br>
-⚡ Fun fact: By day, I'm a SysAdmin, navigating the world of systems, but my heart belongs to programming. <br>
+🚀 Currently, I'm sprinkling code magic into CodeCraft, my open-source masterpiece.<br>
+🤓 I'm obsessed with mastering Python, C# Dotnet, and AI (LLM & ML) like a wizard. <br>
+💼 During the day, I'm a SysAdmin, ruling the kingdom of systems, but secretly, I'm the programming superhero.<br>
+
+Check out the enchanting creation im working on: [CodeCraft](https://github.com/mshajid/CodeCraft)<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Saajixd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/SajidSabreen) 
