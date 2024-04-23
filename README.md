@@ -21,12 +21,12 @@
 ```dart
 class GlobalSkills extends Me {
   const myTools  = {
-    "ProgramingLanguages": {"Python", "C#", "Dart", "C", "Javascript", "SQL", "C++"},
+    "ProgramingLanguages": {"Python", "C#", "C", "Javascript", "SQL", "C++"},
     "OtherLanguages": {"HTML", "CSS", "Json", "Markdown"},
+    "Frameworks": {"Django", "Next.js", "Three.js"},
     "Database": {"MongoDB", "Sqlite"},
     "Editors": {"Vscode", "CodeSpaces"},
     "Platforms": {"Windows","GNU/Linux"},
-    "Frameworks": {"Django", "Next.js", "Three.js"},
     "OtherTools": {"Git", "Gimp", "GODOT", "Bootstrap", "Netlify", "Glitch"}
   };
 }
