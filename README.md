@@ -13,7 +13,7 @@
   <code><a href="https://www.instagram.com/saajixd" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h3>
 
-# Tech Skills &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+# Tech Skills <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 ```dart
 class GlobalSkills extends Me {
