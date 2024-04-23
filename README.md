@@ -4,13 +4,10 @@
   </a>
 </p>
 
-> 🚀 Currently, wasting my time working in a job i dont gain anything from.
- > 
-> 🤓 I'm obsessed with mastering Python, C# Dotnet, and AI (LLM & ML) like a wizard.
- > 
-> 💼 During the day, I'm a Software Administrator, ruling the kingdom of systems/softwares, but secretly, I'm the programming superhero. 
- > 
-
+🚀 Currently, wasting my time working in a job i dont gain anything from.<br>
+🤓 I'm obsessed with mastering Python, C# Dotnet, and AI (LLM & ML) like a wizard.<br>
+💼 During the day, I'm a Software Administrator, ruling the kingdom of systems/softwares, but secretly, I'm the programming superhero.<br>
+<br>
 <h3 align="center">
   <code><a href="https://www.linkedin.com/in/sajidsabreen" title="LinkedIn Profile"><img width="22" src="images/linkedin (1).svg"> LinkedIn</a></code>&nbsp;&nbsp;&nbsp;&nbsp;
   <code><a href="https://www.instagram.com/saajixd" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
