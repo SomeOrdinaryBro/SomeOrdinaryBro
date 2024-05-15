@@ -18,7 +18,7 @@
 ```dart
 class GlobalSkills extends Me {
   const myTools  = {
-    "ProgramingLanguages": {"Python", "C#", "C", "Javascript", "SQL", "C++"},
+    "ProgramingLanguages": {"Python", GDScript, "C#", "C", "Javascript", "SQL", "C++"},
     "OtherLanguages": {"HTML", "CSS", "Json", "Markdown"},
     "Frameworks": {"Django", "Next.js", "Three.js"},
     "Database": {"MongoDB", "Sqlite"},
