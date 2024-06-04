@@ -4,7 +4,7 @@
   </a>
 </p>
 
-🚀 Currently, wasting my time working in a job i dont gain anything from.<br>
+🚀 Currently, working as a Tech Admin @ HCI.<br>
 🤓 I'm obsessed with mastering Python, C# Dotnet, and AI (LLM & ML) like a wizard.<br>
 💼 During the day, I'm a Software Administrator, ruling the kingdom of systems/softwares, but secretly, I'm the programming superhero.<br>
 <br>
