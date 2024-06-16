@@ -23,7 +23,7 @@ class GlobalSkills extends Me {
     "Frameworks": {"Django", "Next.js", "Three.js"},
     "Database": {"MongoDB", "Sqlite"},
     "Editors": {"Vscode", "CodeSpaces"},
-    "Platforms": {"Windows","GNU/Linux"},
+    "Platforms": {"Windows","GNU/Linux", "AWS - EC2, S3, RDS"},
     "OtherTools": {"Git", "Gimp", "GODOT", "Bootstrap", "Netlify", "Glitch"}
   };
 }
