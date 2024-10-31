@@ -4,9 +4,9 @@
   </a>
 </p>
 
-🚀 Currently, working as a Senior Tech Admin @ HCI.<br>
-🤓 I'm obsessed with mastering Python, C# Dotnet, and AI (LLM & ML) like a wizard.<br>
-💼 During the day, I'm a Software Administrator, ruling the kingdom of systems/softwares, but secretly, I'm the programming superhero.<br>
+🚀 Currently, working as a Operations and Product Manager @ HCI.<br>
+🤓 I'm obsessed with learning new things in Python, C#, and anything about AI.<br>
+💼 Operations and Product Manager by day, optimizing systems and software, but a programming enthusiast at heart.<br>
 <br>
 <h3 align="center">
   <code><a href="https://www.linkedin.com/in/sajidsabreen" title="LinkedIn Profile"><img width="22" src="images/linkedin (1).svg"> LinkedIn</a></code>&nbsp;&nbsp;&nbsp;&nbsp;
