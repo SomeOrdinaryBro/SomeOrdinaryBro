@@ -4,9 +4,8 @@
   </a>
 </p>
 
-🚀 Currently, working as a Operations and Product Manager @ HCI.<br>
 🤓 I'm obsessed with learning new things in Python, C#, and anything about AI.<br>
-💼 Operations and Product Manager by day, optimizing systems and software, but a programming enthusiast at heart.<br>
+💼 Doing a 9-5 by day optimizing systems and software, but a programming enthusiast by Night.<br>
 <br>
 <h3 align="center">
   <code><a href="https://www.linkedin.com/in/sajidsabreen" title="LinkedIn Profile"><img width="22" src="images/linkedin (1).svg"> LinkedIn</a></code>&nbsp;&nbsp;&nbsp;&nbsp;
