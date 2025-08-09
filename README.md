@@ -4,11 +4,11 @@
   </a>
 </p>
 
-🤓 I'm obsessed with learning new things in Python, C#, and anything about AI.<br>
-💼 Doing a 9-5 by day optimizing systems and software, but a programming enthusiast by Night.<br>
 <br>
 
 # Tech Skills <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+
+<br>
 
 ```dart
 class GlobalSkills extends Me {
