@@ -7,9 +7,6 @@
 🤓 I'm obsessed with learning new things in Python, C#, and anything about AI.<br>
 💼 Doing a 9-5 by day optimizing systems and software, but a programming enthusiast by Night.<br>
 <br>
-<h3 align="center">
-  <code><a href="https://www.linkedin.com/in/sajidsabreen" title="LinkedIn Profile"><img width="22" src="images/linkedin (1).svg"> LinkedIn</a></code>&nbsp;&nbsp;&nbsp;&nbsp;
-</h3>
 
 # Tech Skills <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
